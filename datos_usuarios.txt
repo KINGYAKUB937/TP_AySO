@@ -1,0 +1,1 @@
+model name	: AMD Ryzen 5 8500G w/ Radeon 740M Graphics
